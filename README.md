@@ -1,4 +1,4 @@
-<h1 align="center"><u>Android CameraHack</u></h1>
+<h1 align="center"><u>CHack</u></h1>
 
 ### Termux Full Install and Setup 
 ```
