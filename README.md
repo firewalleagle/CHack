@@ -2,7 +2,7 @@
 
 ### Termux Full Install and Setup 
 ```
-pkg update && pkg upgrade && pkg install git && git clone https://github.com/thakur2309/Camhack.git && cd Camhack && chmod +X start.sh && bash start.sh
+pkg update && pkg upgrade && pkg install git && git clone https://github.com/mohdabdulali/CHack.git && cd Camhack && chmod +X start.sh && bash start.sh
 ```
 
 ### [TERMUX] Packege Install Comments
