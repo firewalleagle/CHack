@@ -17,7 +17,7 @@ pkg install php
 pkg install git
 ```
 ```
-git clone https://github.com/thakur2309/Camhack.git
+git clone https://github.com/mohdabdulali/CHack.git
 ```
 ```
 cd Camhack
