@@ -27,22 +27,14 @@ fi
 
 # Banner
 clear
-echo -e "${red}┏━━━┓┏━━━┓┏━━━┓┏━━━┓┏━━━┓━━━━┏━━━┓┏━━━┓┏━┓┏━┓┏━━━┓┏━━━┓┏━━━┓${reset}"
-echo -e "${yellow}┃┏━┓┃┃┏━┓┃┗┓┏┓┃┃┏━━┛┃┏━┓┃━━━━┃┏━┓┃┃┏━┓┃┃┃┗┛┃┃┃┏━━┛┃┏━━┛┃┏━┓┃${reset}"
-echo -e "${green}┃┃━┗┛┃┃━┃┃━┃┃┃┃┃┗━━┓┃┗━┛┃━━━━┃┗━━┓┃┃━┃┃┃┏┓┏┓┃┃┗━━┓┃┗━━┓┃┗━┛┃${reset}"
-echo -e "${cyan}┃┃━┏┓┃┃━┃┃━┃┃┃┃┃┏━━┛┃┏┓┏┛━━━━┗━━┓┃┃┗━┛┃┃┃┃┃┃┃┃┏━━┛┃┏━━┛┃┏┓┏┛${reset}"
-echo -e "${magenta}┃┗━┛┃┃┗━┛┃┏┛┗┛┃┃┗━━┓┃┃┃┗┓━━━━┃┗━┛┃┃┏━┓┃┃┃┃┃┃┃┃┗━━┓┃┗━━┓┃┃┃┗┓${reset}"
-echo -e "${cyan}┗━━━┛┗━━━┛┗━━━┛┗━━━┛┗┛┗━┛━━━━┗━━━┛┗┛━┗┛┗┛┗┛┗┛┗━━━┛┗━━━┛┗┛┗━┛${reset}"
-echo -e "${green}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${reset}"
-echo -e "${green}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${reset}"
-
 echo ""
-echo -e "${cyan}--------------------------------------------${reset}"
-echo -e "${green}  Created by: Abdul Ali${reset}"
-echo -e "${cyan}--------------------------------------------${reset}"
-echo -e "${green}  Subscribe YouTube Channel: Coder Sameer ${reset}"
-echo -e "${cyan}--------------------------------------------${reset}"
-echo ""
+figlet "FIREWALL EAGLE" | lolcat
+echo "=============================" | lolcat
+echo "YouTube :- FireWall Eagle" | lolcat
+echo "=============================" | lolcat
+echo "Created By:- Sameer" | lolcat
+echo "=============================" | lolcat
+echo""
 
 # Tunnel Menu
 echo -e "${yellow}[+] Choose Tunnel Option:${reset}"
